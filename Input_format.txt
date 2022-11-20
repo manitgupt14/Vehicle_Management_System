@@ -1,0 +1,8 @@
+-----------------------------Input Format---------------------------------------------------
+NumberOfPerson
+
+For Each Person:
+Name_Of_Person Gender_of_Person Number_of_Vehicles
+
+For Each Vehicle:
+VehicleType("Car"/"Bike") VehicleName VehicleIsUsed(0/1) VehicleIsMadeInIndia(0/1) FuelType
